@@ -1,0 +1,15 @@
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\obj\Debug\net6.0\Assessment_YeeunShin.csproj.AssemblyReference.cache
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\obj\Debug\net6.0\Assessment_YeeunShin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\obj\Debug\net6.0\Assessment_YeeunShin.AssemblyInfoInputs.cache
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\obj\Debug\net6.0\Assessment_YeeunShin.AssemblyInfo.cs
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\obj\Debug\net6.0\Assessment_YeeunShin.csproj.CoreCompileInputs.cache
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\bin\Debug\net6.0\Assessment_YeeunShin.exe
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\bin\Debug\net6.0\Assessment_YeeunShin.deps.json
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\bin\Debug\net6.0\Assessment_YeeunShin.runtimeconfig.json
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\bin\Debug\net6.0\Assessment_YeeunShin.dll
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\bin\Debug\net6.0\Assessment_YeeunShin.pdb
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\obj\Debug\net6.0\Assessment_YeeunShin.dll
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\obj\Debug\net6.0\refint\Assessment_YeeunShin.dll
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\obj\Debug\net6.0\Assessment_YeeunShin.pdb
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\obj\Debug\net6.0\Assessment_YeeunShin.genruntimeconfig.cache
+C:\Users\n11470062\source\repos\Assessment_YeeunShin\obj\Debug\net6.0\ref\Assessment_YeeunShin.dll
